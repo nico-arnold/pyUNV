@@ -1,0 +1,3 @@
+[submodule "pyuff"]
+	path = pyuff
+	url = https://github.com/nico-arnold/pyuff.git
