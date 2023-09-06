@@ -6,6 +6,7 @@
 #
 numpy==1.25.2
     # via -r requirements.in
+pre-commit==3.4.0
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
